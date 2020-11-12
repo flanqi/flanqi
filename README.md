@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Lanqi 👋
 
 <!--
 **flanqi/flanqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a current student of M.S. in Analytics ([MSiA](https://www.mccormick.northwestern.edu/analytics/)) at Northwestern University who is passionate about data science. I have expertise in Python, R, SQL, Java and Tableau, and have gained hands-on experience through various DS projects and industry practicums. I am currently actively seeking for summer DS internship opportunities. 
+
+📫 How to reach me: 
+* [LinkedIn](https://www.linkedin.com/in/lanqifei)
+* Email: lanqif17@gmail.com
