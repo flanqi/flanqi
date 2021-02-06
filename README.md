@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a current student of M.S. in Analytics ([MSiA](https://www.mccormick.northwestern.edu/analytics/)) at Northwestern University who is passionate about data science. I have expertise in Python, R, SQL, Java and Tableau, and have gained hands-on experience through various DS projects and industry practicums. I am currently actively seeking for summer DS internship opportunities. 
+I am a current student of M.S. in Analytics ([MSiA](https://www.mccormick.northwestern.edu/analytics/)) at Northwestern University who is passionate about data science. I have expertise in Python, R, SQL, Java and Tableau, and have gained hands-on experience through various DS projects and industry practicums. 
 
 📫 About me: 
 * [LinkedIn](https://www.linkedin.com/in/lanqifei)
