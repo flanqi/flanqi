@@ -18,5 +18,5 @@ I am a current student of M.S. in Analytics ([MSiA](https://www.mccormick.northw
 
 📫 About me: 
 * [LinkedIn](https://www.linkedin.com/in/lanqifei)
-* [MathBlog](https://flanqi.blogspot.com/)
+* [Math&DataScience Blog](https://flanqi.blogspot.com/)
 * Email: lanqif17@gmail.com
